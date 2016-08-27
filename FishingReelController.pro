@@ -1,15 +1,15 @@
 EAGLE AutoRouter Statistics:
 
-Job           : C:/Users/hojun/Documents/eagle/GradeFreeEngineer/SmartLURE.brd
+Job           : C:/Users/hojun/Documents/eagle/GradeFreeEngineer/FishingReelController.brd
 
-Start at      : 11:13:50 (2016-08-27)
-End at        : 11:13:53 (2016-08-27)
+Start at      : 11:04:54 (2016-08-27)
+End at        : 11:04:57 (2016-08-27)
 Elapsed time  : 00:00:01
 
-Signals       :    16   RoutingGrid: 50 mil  Layers: 2
-Connections   :    35   predefined:  35 ( 15 Vias )
+Signals       :    34   RoutingGrid: 50 mil  Layers: 2
+Connections   :    90   predefined:  90 ( 23 Vias )
 
-Router memory :   3920
+Router memory :   21024
 
 Passname          :     Route Optimize1 Optimize2 Optimize3 Optimize4
 
